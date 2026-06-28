@@ -10,7 +10,7 @@
 ### 🎓 BBA (Hons) Artificial Intelligence | 💼 Procurement @ UCES | 🤖 Building AI Tools for Business
 
 Final-year AI student at **UniRazak KL** (July 2023 → December 2026).  
-Currently working at **Universal Cellular Engineering Services (UCES)** in procurement.  
+Previously worked at **Universal Cellular Engineering Services (UCES)** in procurement (Dec 2025 \u2013 Jun 2026).  
 I build practical tools at the intersection of **AI × Business × Operations**.
 
 ---
@@ -18,6 +18,7 @@ I build practical tools at the intersection of **AI × Business × Operations**.
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
+| 🧊 [VendorFlow](https://github.com/EkhsanFitri94/vendorflow) | Full-stack vendor management platform with admin dashboard | Flask, MongoDB, Bootstrap 5 |
 |---|---|---|
 | 🤖 [AI Procurement Assistant](https://github.com/EkhsanFitri94/ai-procurement-assistant) | Upload PO data → instant AI insights & chat | Streamlit, pandas, OpenAI |
 | 🇲🇾 [Malaysia Jobs Analytics](https://github.com/EkhsanFitri94/malaysia-jobs-analytics) | Scrape → analyze → visualize job market | BS4, Streamlit, Plotly |
